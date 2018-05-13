@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-#cliente faz a connection e necessario uso do netcat para poder interagir e ouvir as portas
+#cliente faz a connection necessario uso do NETCAT
 import socket
 
 target = "127.0.0.1" #alvo
